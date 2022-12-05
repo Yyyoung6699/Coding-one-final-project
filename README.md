@@ -1,5 +1,7 @@
 # Coding-one-final-project
 Coding one final project of Luyang Xing
+Vedio link: https://youtu.be/vKFPkon1JlM
+Mimic link: https://mimicproject.com/code/2fc0db25-2cfc-4a8e-8213-c50aad992308
 
 Project Description
 In the coding one course I learned about sound, 2D and 3D code. I tried to make my week3 2D homework in 3D and adding sound visualization elements. My code is not complicated, but I spent a lot of time getting the visual effects to fit the sound. When running it, the vibrating spheres and color changes with the powerful drums are like a colorful speaker, giving a visual and auditory impact.
